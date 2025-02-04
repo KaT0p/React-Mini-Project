@@ -5,10 +5,10 @@
     # ในโฟลเดอร์ Client และ Service
     $ npm install
 
-    # Run Vite ด้วย
+    # Run Vite ด้วย Command
     $ npm run dev
 
-    # สามารถ Start ตัว Server ได้ด้วย Command 
+    # สามารถ Start ตัว Server ด้วย Command 
     $ npm start 
 
 ```
